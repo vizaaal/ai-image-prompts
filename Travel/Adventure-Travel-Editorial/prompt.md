@@ -154,3 +154,27 @@ Do NOT generate:
 ## 🎯 Goal
 
 Create a visually stunning luxury travel editorial poster that appears to have been genuinely photographed during a sunrise Himalayan expedition. The image should combine authentic outdoor photography, premium editorial design, inspiring typography, and emotional storytelling while preserving the subject's identity perfectly. The final result should be indistinguishable from a real luxury travel magazine cover.
+
+
+## 🖼️ Example
+
+**Before**
+
+![Before](before.jpg)
+
+**After**
+
+![After](after.png)
+
+---
+
+## 🏷️ Tags
+
+`forest` `fog` `background` `cinematic` `portrait` `photorealistic` `nature` `green` `editorial`
+
+---
+
+## 📌 Notes
+
+This prompt is designed for AI image editing models that support background replacement while preserving the original subject. It produces the best results with high-resolution portrait photos taken in natural lighting.
+
