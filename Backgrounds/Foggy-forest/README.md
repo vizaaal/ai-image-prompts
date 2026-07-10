@@ -80,11 +80,11 @@ Create a photograph that convincingly looks like it was captured during a real j
 
 **Before**
 
-![Before](after.png)
+![Before](before.jpg)
 
 **After**
 
-![Before](before.jpg)
+![After](after.png)
 
 ---
 
