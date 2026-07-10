@@ -42,7 +42,7 @@ Prompt-Tips/
 
 ## 📸 Creator
 
-**Vishal Shivapujimath**
+**Vishal Mahantesh Shivapujimath**
 
 Instagram: **@vizaaal**
 
