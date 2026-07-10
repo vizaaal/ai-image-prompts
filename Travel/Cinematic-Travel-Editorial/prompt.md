@@ -146,3 +146,26 @@ Do NOT generate:
 ## Goal
 
 Create a visually stunning, ultra-realistic luxury travel editorial poster that looks like it was genuinely photographed on location by a world-class travel photographer. The final result should be indistinguishable from a real National Geographic or luxury fashion travel campaign, with perfectly integrated environmental lighting, authentic skin tones, premium typography, and cinematic realism.
+
+
+## 🖼️ Example
+
+**Before**
+
+![Before](before.jpg)
+
+**After**
+
+![After](after.png)
+
+---
+
+## 🏷️ Tags
+
+`forest` `fog` `background` `cinematic` `portrait` `photorealistic` `nature` `green` `editorial`
+
+---
+
+## 📌 Notes
+
+This prompt is designed for AI image editing models that support background replacement while preserving the original subject. It produces the best results with high-resolution portrait photos taken in natural lighting.
