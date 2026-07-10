@@ -12,8 +12,11 @@ Welcome to my collection of premium AI image prompts for creating cinematic, ult
 - 💡 Lighting
 - 🎨 Color Grading
 
+---
+
 ## 📂 Repository Structure
 
+```
 Backgrounds/
 Portraits/
 Automotive/
@@ -22,6 +25,9 @@ Posters/
 Lighting/
 Color-Grading/
 Prompt-Tips/
+```
+
+---
 
 ## 🚀 What You'll Find
 
@@ -31,6 +37,8 @@ Prompt-Tips/
 - Travel scene prompts
 - Studio lighting prompts
 - Professional color grading prompts
+
+---
 
 ## 📸 Creator
 
